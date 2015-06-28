@@ -1,2 +1,2 @@
 # BMW-Golang
-a Better Mmap Wrapper for Golang
+A better Memory-Map Wrapper for Golang
